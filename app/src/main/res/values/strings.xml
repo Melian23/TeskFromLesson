@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nsk">Новосибирск</string>
+    <string name="sam">Самара</string>
+    <string name="spb">Санкт-Петербург</string>
+    <string name="cities">Cities</string>
+</resources>
